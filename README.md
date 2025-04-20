@@ -70,7 +70,6 @@ I’d rather build for 100 people who truly care, than for 10 million who don’
 
 ### Contact
 
-**Think this guy’s just an SDE II?**  
 I'm open to working with people who value clarity, purpose, and real engineering. 
 If you're building something that matters — and want someone who builds with intention — let's talk
 
